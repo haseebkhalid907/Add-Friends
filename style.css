@@ -25,4 +25,33 @@ footer{
 
 
 
+#image {
+    width: 100%;
+}
+
+.submit {
+    width: 103px;
+    height: 35px;
+    color: blue;
+    margin: auto;
+}
+
+#mytags {
+    position: relative;
+    margin: auto;
+    bottom: 500px;
+    color: aqua;
+}
+#footera{
+    display: flex;
+}
+
+#footera li{
+    list-style: none;
+    width: 100%;
+    margin: auto;
+}
+#footera li a{
+    text-decoration: none;
+}
 
