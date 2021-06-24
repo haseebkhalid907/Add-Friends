@@ -1,0 +1,23 @@
+nav{
+    background-color: blueviolet;
+    width: 100%;
+}
+
+img{
+    height: 100%;
+    width: 50px;
+}
+
+.item{
+    color: white;
+    /* text-decoration: none; */
+    list-style: none;
+}
+
+
+
+
+footer{
+    background-color: blanchedalmond;
+    color: white;
+}
