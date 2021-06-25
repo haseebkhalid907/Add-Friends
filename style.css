@@ -62,8 +62,7 @@ footer{
 
 
 
-
-
+  
 
 
 
@@ -73,6 +72,88 @@ footer{
 
 /* /////////////////////////////////////////////////////////////// */
 /* benish */
+nav{
+    width: 100%;
+    height: 80px;
+
+}
+.container{
+    position: relative;
+    margin: -1px 9px;
+    line-height: 70px;
+    font-weight: bold;
+    font-size: 20px;
+}
+   
+   
+nav>ul{
+    display: flex;
+}
+ul>li{
+    padding: 20px;
+    position: relative;
+    margin: -46px -9px;
+    display: inline-block;
+ 
+}
+ul>li:hover{
+    background: #32ad3c;
+    /* border: 2px solid yellow; */
+}
+#items{
+    position: relative;
+    /* margin-left: 23px; */
+    margin: -44px 211px;
+    color: pink;
+}
+#search{
+    border-radius: 19px;
+    position: relative;
+   
+    margin: 12px 958px;
+   
+    background: lightblue;
+    border: 2px solid orange;
+}
+#search:hover{
+    background: turquoise;
+    border: 2px solid red;
+}
+#button{
+    display: inline-block;
+    position: absolute;
+    margin: -47px 1230px;
+    border: 2px solid green;
+    color: white;
+    font-size: 21px;
+    background: purple;
+}
+#button:hover{
+    background: yellowgreen;
+}
+#button2{
+    position: absolute;
+    /* margin: -62px 1243px; */
+    border: 2px solid green;
+    color: white;
+    font-size: 24px;
+    background: #e65100;
+    margin: -35px 48px;
+}
+#a{
+    border: 1px solid red;
+    background-color: orchid;
+}
+#a:hover{
+    background: yellowgreen;
+}
+
+
+
+
+
+
+
 
 
 
